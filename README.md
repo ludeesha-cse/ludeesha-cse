@@ -2,6 +2,8 @@
 
 Here are some ideas to get you started:
 
+- 👨‍💻 I'm a Computer Science and Engineer (UG) at University of Moratuwa
+- 🧑🏻‍🎓 BSc Engineering Honours Degree specialized in Computer Science and Engineering (UG)
 - 🔭 I’m currently working on Tour planning website
 - 🌱 I’m currently learning Node JS, React Native, Spring Boot, Express
 - 📫 How to reach me: ludeeshananayakkara.20@gmail.com 
