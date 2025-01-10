@@ -95,7 +95,7 @@
 
 <!-- Resume -->
 ### 📄 Resume
-<a href="path-to-your-resume.pdf">
+<a href="https://drive.google.com/drive/folders/1F6w-yjdjkczh7oOFWEGWf_H8mRKJZWom?usp=sharing">
   <img src="https://img.shields.io/badge/Download_Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
 </a>
 
