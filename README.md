@@ -60,7 +60,7 @@
  items by category, and easily add them to their cart. Orders are
  placed using the customer’s location fetched via an interactive map,
  ensuring accurate and timely delivery to their doorstep
-- **Tech Stack**: Angular | Node | Mongo DB | Tailwind css
+- **Tech Stack**: Angular | Node | Express | Mongo DB | Tailwind css
 - **[View Project →](https://online-foodstore-1.onrender.com/)**
 
 #### Blog application
@@ -69,7 +69,7 @@
  comment, reply, and like comments. Admins can also moderate and
  delete comments, ensuring a dynamic and engaging platform for
  blogging
-- **Tech Stack**: React | Node | Mongo DB | Tailwind css | FireBase
+- **Tech Stack**: React | Node | Express | Mongo DB | Tailwind css | FireBase
 - **[View Project →](https://blog-app-axl1.onrender.com/)**
 </details>
 
