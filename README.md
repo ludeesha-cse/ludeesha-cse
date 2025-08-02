@@ -5,7 +5,7 @@
 
 <!-- About Me -->
 ### 🎓 About Me
-- 🎯 Computer science and engineer Undergraduate at University of Moratuwa
+- 🎯 BSc(Hons) in Computer Science and Engineering at University of Moratuwa
 - 💻 Passionate about creating efficient and scalable solutions
 - 🌱 Always learning and exploring new technologies
 
